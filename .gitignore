@@ -1,5 +1,5 @@
-./project/
-./target/
+/project/
+/target/
 ## editors
 /.idea
 /.vscode
