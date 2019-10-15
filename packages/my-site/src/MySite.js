@@ -116,7 +116,7 @@ export class MySite extends LitElement {
         header ul li a {
           color: #ccc;
           text-decoration: none;
-          font-size: 18px;
+          font-size: 13px;
           line-height: 36px;
         }
 
