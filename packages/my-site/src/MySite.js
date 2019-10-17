@@ -58,7 +58,7 @@ export class MySite extends LitElement {
           </li>
           <li>
             <a href="#pageOne" class=${this.__addActiveIf('pageOne')} @click=${this.__clickPageLink}
-              >Page One</a
+              >One Name Study</a
             >
           </li>
           <li>
@@ -98,7 +98,6 @@ export class MySite extends LitElement {
         header {
           width: 100%;
           background: #fff;
-          border-bottom: 1px solid #ccc;
         }
 
         header ul {
