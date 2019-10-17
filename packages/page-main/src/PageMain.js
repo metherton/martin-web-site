@@ -39,7 +39,7 @@ export class PageMain extends LitElement {
 
   render() {
     return html`
-      <section style="display: flex"><aside><img src="./packages/page-main/src/martin.png" alt="Martin Etherton"></aside><article><h1>Martin Etherton</h1></article></section>
-    `;
-  }
+        <section style="display: flex"><article><h1>One Name Study</h1></article></section>
+      `;
+    }
 }
